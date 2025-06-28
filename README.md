@@ -7,6 +7,10 @@ Welcome to psyclone an ai based web app that empowers learning psychologists by 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,nodejs,express,react,vite)](https://skillicons.dev)
 
 
+![image](https://github.com/user-attachments/assets/af1e1939-fc56-4169-be3c-acafa1c63772)
+
+![image](https://github.com/user-attachments/assets/6d1b7089-c6c8-4ecc-ad34-cb3149fecb95)
+
 
 
 
