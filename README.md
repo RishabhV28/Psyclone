@@ -8,27 +8,29 @@ Welcome to psyclone an ai based web app that empowers learning psychologists by 
 
 
 
+
+
+
 # Solution
-❏ AI-Powered Virtual Patients: An interactive chatbot that simulates patients with
-various mental health disorders
-❏ Realistic Conversational Flow: The AI mimics natural speech, emotional
+- AI-Powered Virtual Patients: An interactive chatbot that simulates patients with various mental health disorders
+- Realistic Conversational Flow: The AI mimics natural speech, emotional
 responses, and symptom expression to replicate real-world patient interactions
-❏ Customizable Scenarios: Students can select conditions (e.g., depression,
+- Customizable Scenarios: Students can select conditions (e.g., depression,
 schizophrenia), patient backgrounds, and difficulty levels for tailored practice
 sessions.
-❏ Built-In Feedback System: After each session, the platform provides feedback
+- Built-In Feedback System: After each session, the platform provides feedback
 on student performance—highlighting empathy, missed cues, and diagnostic
 accuracy
 
 # How it works
-❏ The student picks a mental health case (e.g., anxiety, PTSD, schizophrenia) and
+- The student picks a mental health case (e.g., anxiety, PTSD, schizophrenia) and
 customizes patient details like age, gender, or background.
-❏ A large language model (LLM) simulates the patient’s responses—showing
+-  A large language model (LLM) simulates the patient’s responses—showing
 symptoms, emotional tones, and behavioral cues based on the selected
 condition
-❏ The student engages in a mock clinical interview—asking open-ended
+- The student engages in a mock clinical interview—asking open-ended
 questions, observing cues, and trying to make a preliminary diagnosis
-❏ Once the session ends, the platform analyzes the conversation and gives
+- Once the session ends, the platform analyzes the conversation and gives
 feedback on missed red flags, empathy and communication, correctness of
 diagnosis and suggested improvements
 
